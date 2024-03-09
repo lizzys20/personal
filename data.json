@@ -1,0 +1,100 @@
+{
+    "images": [
+        {
+            "id": "1",
+            "name": "topper",
+            "quantity": 0,
+            "url": "./images/topper.jpg",
+            "description": "Make a shopping list for all your missing ingredients.",
+            "recipeLink": ""
+        },
+        {
+            "id": "2",
+            "name": "Hamburger",
+            "quantity": 0,
+            "url": "./images/hamburger.jpg",
+            "description": "Slide 2",
+            "recipeLink": ""
+        },
+        {
+            "id": "3",
+            "name": "Bread",
+            "quantity": 0,
+            "url": "./images/bread.jpg",
+            "description": "Slide 3",
+            "recipeLink": ""
+        },
+        {
+            "id": "4",
+            "name": "Recipes",
+            "quantity": 0,
+            "url": "./images/food.jpg",
+            "description": "Search recipes you know or find recipes from others!",
+            "recipeLink": "./recipes.html"
+        },
+        {
+            "id": "5",
+            "name": "Ingredients",
+            "quantity": 0,
+            "url": "./images/ingredients.jpg",
+            "description": "See whatever ingredients you have in the pantry right now!",
+            "recipeLink": "./ingredients.html"
+        },
+        {
+            "id": "6",
+            "name": "About Us",
+            "quantity": 0,
+            "url": "./images/LizzyNWaves.jpg",
+            "description": "Meet the creators of this fabulous website!",
+            "recipeLink": "./about.html"
+        },
+        {
+            "id": "7",
+            "name": "Bacon Recipe",
+            "quantity": 0,
+            "url": "./images/bacon.jpg",
+            "description": "The best breakfast food always and will always be some nice crispy bacon. If you are looking to take it to the next level then you came to the right place.",
+            "recipeLink": "https://downshiftology.com/recipes/how-to-cook-bacon-in-the-oven/"
+        },
+        {
+            "id": "8",
+            "name": "Hamburger Recipe",
+            "quantity": 0,
+            "url": "./images/hamburger.jpg",
+            "description": "Add this gourmet burger to your gameday rotation. Every week you and your buddys can get together, watch the game and eat like a king. Who doesn't dream of that?",
+            "recipeLink": "https://natashaskitchen.com/perfect-burger-recipe/"
+        },
+        {
+            "id": "9",
+            "name": "Pasta Recipe",
+            "quantity": 0,
+            "url": "./images/pasta.jpg",
+            "description": "Cheap and easy usually does not belong in the same sentance as tasty but this recipe changes that. Every college kid should add this to the rotation and enjoy pasta dinners much more.",
+            "recipeLink": "https://norecipes.com/best-spaghetti-recipe/"
+        },
+        {
+            "id": "10",
+            "name": "Steak Recipe",
+            "quantity": 0,
+            "url": "./images/steak.jpg",
+            "description": "Do you ever want to eat a nice steak dinner but don't want to go to a steakhouse and spend a fortune? Well this recipe will help you get that steakhouse taste without the steakhouse price.",
+            "recipeLink": "https://www.allrecipes.com/recipe/14554/sirloin-steak-with-garlic-butter/"
+        },
+        {
+            "id": "11",
+            "name": "Pizza Recipe",
+            "quantity": 0,
+            "url": "./images/pizza.jpg",
+            "description": "The classic party favorite. Pizza, it is so versatile and fun to eat. Wondering how to take it to the next level? Here is your place.",
+            "recipeLink": "https://www.abeautifulplate.com/the-best-homemade-margherita-pizza/"
+        },
+        {
+            "id": "12",
+            "name": "Salmon Recipe",
+            "quantity": 0,
+            "url": "./images/salmon.jpg",
+            "description": "Hmm? Does something smell a bit fishy to you? It is probably your homecooked salmon that stinks up the entire kitchen. Here is an easy recipe that helps you eat some nice salmon without the stench!",
+            "recipeLink": "https://joshmuskin.com/recipes/healthy-dinner-options-crispy-salmon-without-smelling-up-the-house/"
+        }
+    ]
+}
